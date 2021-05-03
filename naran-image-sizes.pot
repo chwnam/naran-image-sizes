@@ -1,0 +1,63 @@
+# Copyright (C) 2021 changwoo
+# This file is distributed under the same license as the Naran Image Sizes plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Naran Image Sizes 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/naran-image-sizes\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2021-05-03T11:23:24+09:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.4.0\n"
+"X-Domain: naran-image-sizes\n"
+
+#. Plugin Name of the plugin
+msgid "Naran Image Sizes"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://github.com/chwnam/naran-image-sizes"
+msgstr ""
+
+#. Description of the plugin
+msgid "Display registered image size information in the admin."
+msgstr ""
+
+#. Author of the plugin
+msgid "changwoo"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://blog.changwoo.pe.kr"
+msgstr ""
+
+#: naran-image-sizes.php:31
+msgid "Image Sizes"
+msgstr ""
+
+#: naran-image-sizes.php:70
+msgid "Name"
+msgstr ""
+
+#: naran-image-sizes.php:71
+msgid "Width"
+msgstr ""
+
+#: naran-image-sizes.php:72
+msgid "Height"
+msgstr ""
+
+#: naran-image-sizes.php:73
+msgid "Crop"
+msgstr ""
+
+#: naran-image-sizes.php:82
+msgid "yes"
+msgstr ""
+
+#: naran-image-sizes.php:82
+msgid "no"
+msgstr ""
